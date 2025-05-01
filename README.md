@@ -54,3 +54,18 @@ A aplicação:
 
     mvn test
 
+### 📄 Especificações técnicas
+
+   Java 17
+
+   Spring Boot
+
+   Spring Web
+
+   Spring Data JPA
+
+   Banco H2 (em memória)
+
+   Lombok
+
+   Testes com JUnit + MockMvc
